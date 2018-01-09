@@ -1,0 +1,268 @@
+$date
+	Fri Nov 11 09:40:06 2016
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	100ps
+$end
+$scope module t_Example6 $end
+$var wire 1 ! Clk $end
+$var wire 1 " Q5_b $end
+$var wire 1 # Q5 $end
+$var wire 1 $ Q4 $end
+$var wire 1 % Q3 $end
+$var wire 1 & Q2 $end
+$var wire 1 ' Q1 $end
+$var reg 1 ( D $end
+$var reg 1 ) K $end
+$var reg 1 * clk $end
+$var reg 1 + rst $end
+$scope module DFF $end
+$var wire 1 * Clk $end
+$var wire 1 ( D $end
+$var reg 1 ' Q1 $end
+$upscope $end
+$scope module DFFWR $end
+$var wire 1 * Clk $end
+$var wire 1 ( D $end
+$var wire 1 + rst $end
+$var reg 1 & Q2 $end
+$upscope $end
+$scope module JKFF $end
+$var wire 1 * Clk $end
+$var wire 1 ( J $end
+$var wire 1 ) K $end
+$var reg 1 $ Q4 $end
+$upscope $end
+$scope module JK_FF $end
+$var wire 1 ! Clk $end
+$var wire 1 ( J $end
+$var wire 1 ) K $end
+$var wire 1 " Q_b $end
+$var reg 1 # Q $end
+$upscope $end
+$scope module TFF $end
+$var wire 1 * Clk $end
+$var wire 1 ( T $end
+$var reg 1 % Q3 $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1+
+1*
+0)
+1(
+1'
+1&
+0%
+x$
+1#
+0"
+z!
+$end
+#100
+0*
+#120
+1"
+0#
+0(
+1)
+#200
+0$
+1%
+0'
+0&
+1*
+#240
+0"
+1#
+1(
+0)
+#300
+0*
+#360
+1"
+0#
+0(
+1)
+#400
+1*
+#480
+0"
+1#
+1(
+0)
+#500
+0*
+#600
+1"
+0#
+1*
+0(
+1)
+#700
+0*
+#720
+0"
+1#
+1(
+0)
+#800
+1'
+0%
+1$
+1&
+1*
+#840
+1"
+0#
+0(
+1)
+#900
+0*
+#960
+0"
+1#
+1(
+0)
+#1000
+0&
+1*
+0+
+#1080
+1"
+0#
+0(
+1)
+#1100
+0*
+#1200
+0"
+1#
+1*
+1(
+0)
+#1300
+0*
+#1320
+1"
+0#
+0(
+1)
+#1400
+0$
+1%
+0'
+1*
+#1440
+0"
+1#
+1(
+0)
+#1500
+0*
+#1560
+1"
+0#
+0(
+1)
+#1600
+1*
+#1680
+0"
+1#
+1(
+0)
+#1700
+0*
+#1800
+1"
+0#
+1*
+0(
+1)
+#1900
+0*
+#1920
+0"
+1#
+1(
+0)
+#2000
+1'
+0%
+1$
+1&
+1*
+1+
+#2040
+1"
+0#
+0(
+1)
+#2100
+0*
+#2160
+0"
+1#
+1(
+0)
+#2200
+1*
+#2280
+1"
+0#
+0(
+1)
+#2300
+0*
+#2400
+0"
+1#
+1*
+1(
+0)
+#2500
+0*
+#2520
+1"
+0#
+0(
+1)
+#2600
+0$
+1%
+0'
+0&
+1*
+#2640
+0"
+1#
+1(
+0)
+#2700
+0*
+#2760
+1"
+0#
+0(
+1)
+#2800
+1*
+#2880
+0"
+1#
+1(
+0)
+#2900
+0*
+#3000
+1"
+0#
+1*
+0(
+1)
